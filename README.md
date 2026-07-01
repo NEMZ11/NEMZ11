@@ -6,20 +6,32 @@ I like building software that turns messy workflows into clearer systems: loan o
 
 ## What I'm Working On
 
+- ASP.NET Core APIs with C#, Entity Framework Core, SQL Server, JWT authentication, tests, Docker, and CI
 - Full-stack web projects with TypeScript, Next.js, React, Prisma, and PostgreSQL
 - Python and FastAPI tools for job search automation and local data workflows
 - SQL projects focused on structured data and explainable matching logic
 - Power BI and Excel dashboards for business analysis and data visualization
-- C#/.NET fundamentals for junior developer roles
 
 ## Core Skills
 
-**Software:** TypeScript, JavaScript, React, Next.js, Node.js, Python, FastAPI, REST APIs, Git, GitHub  
-**Databases:** PostgreSQL, SQLite, SQL, Prisma ORM  
+**Software:** C#, .NET, ASP.NET Core, TypeScript, JavaScript, React, Next.js, Node.js, Python, FastAPI, REST APIs, Git, GitHub  
+**Databases:** SQL Server, PostgreSQL, SQLite, SQL, Entity Framework Core, Prisma ORM  
 **Data & BI:** Power BI, Microsoft Excel, data visualization, business intelligence, reporting  
-**Foundations:** AI fundamentals, cybersecurity fundamentals, database management, research, communication
+**Foundations:** OOP, JWT authentication, CI/CD, Docker, AI fundamentals, cybersecurity fundamentals, database management, research, communication
 
 ## Featured Projects
+
+### Employee Task API
+
+ASP.NET Core 9 backend project built for junior .NET developer applications.
+
+- Implements user registration, login, JWT bearer authentication, and role-based access for `Admin` and `Employee` users.
+- Provides CRUD task endpoints with employee visibility rules and admin-level access.
+- Uses Entity Framework Core with SQL Server migrations, service-level xUnit tests, Swagger documentation, Docker Compose, and GitHub Actions CI.
+
+**Tech:** C#, ASP.NET Core 9, Entity Framework Core, SQL Server, JWT, Swagger, xUnit, Docker, GitHub Actions
+
+**Repo:** https://github.com/NEMZ11/employee-task-api
 
 ### Trust Company Loan Management
 
