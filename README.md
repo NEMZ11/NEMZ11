@@ -1,4 +1,4 @@
-﻿# Hi, I'm George Williams Mugabi
+# Hi, I'm George Williams Mugabi
 
 I'm a Warsaw-based Business and Security Analytics student at Vistula University, focused on junior software development, data analytics, business intelligence, and practical business tools.
 
