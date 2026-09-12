@@ -7,58 +7,72 @@ X-WR-CALNAME:Gym Workout Schedule
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:workout-a-mon@nemz11
-DTSTAMP:20260912T074000Z
-SUMMARY:Workout A (Chest/Shoulders/Core)
-DTSTART;TZID=Europe/Warsaw:20260427T183109
-DTEND;TZID=Europe/Warsaw:20260427T193109
+DTSTAMP:20260912T080000Z
+SEQUENCE:1
+SUMMARY:Lower Body A — Quads & Calves
+DTSTART;TZID=Europe/Warsaw:20260914T183000
+DTEND;TZID=Europe/Warsaw:20260914T194500
 RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:GOAL: Build quads and bring leg size up.\n\n1. Barbell Back Squat — 4 x 6–8 — rest 2–3 min\n2. Leg Press — 3 x 10–12 — rest 2 min\n3. Bulgarian Split Squat — 3 x 8–10 each leg — rest 90 sec\n4. Leg Extension — 3 x 12–15 — rest 60–90 sec\n5. Standing Calf Raise — 4 x 10–15 — rest 60 sec\n\nFORM CUES:\nSquat: bar on upper back\, feet about shoulder-width\, sit down between your legs and drive through the floor.\nBulgarian split squat: rear foot on bench\, front leg does the work\, lower back knee toward floor.\nCalf raise: full stretch at bottom\, pause and squeeze at top\, no bouncing.\n\nEFFORT: Finish most sets with about 2 good reps still possible.
 END:VEVENT
 BEGIN:VEVENT
 UID:leg-growth-tue@nemz11
-DTSTAMP:20260912T074000Z
-SUMMARY:Leg Day (Growth)
-DTSTART;TZID=Europe/Warsaw:20260428T183109
-DTEND;TZID=Europe/Warsaw:20260428T193109
+DTSTAMP:20260912T080000Z
+SEQUENCE:1
+SUMMARY:Upper Body A — Chest, Back & Arms
+DTSTART;TZID=Europe/Warsaw:20260915T183000
+DTEND;TZID=Europe/Warsaw:20260915T194000
 RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:GOAL: Build chest\, back and arms without over-emphasising already-wide shoulders.\n\n1. Incline Dumbbell Press — 4 x 8–10 — rest 2 min\n2. Chest-Supported Row — 4 x 8–12 — rest 2 min\n3. Lat Pulldown — 3 x 10–12 — rest 90 sec\n4. Cable Chest Fly — 3 x 12–15 — rest 60–90 sec\n5. Rope Triceps Pushdown — 3 x 10–15 — rest 60 sec\n6. Dumbbell Biceps Curl — 3 x 10–12 — rest 60 sec\n\nFORM CUES:\nIncline press: bench around 20–30 degrees\, lower dumbbells beside upper chest and press up.\nRow: keep chest supported and pull elbows back toward your ribs.\nLat pulldown: chest up and pull bar toward upper chest\, never behind your neck.\nChest fly: soft bend in elbows and bring hands together like hugging a barrel.
 END:VEVENT
 BEGIN:VEVENT
 UID:recovery-wed@nemz11
-DTSTAMP:20260912T074000Z
-SUMMARY:Rest / Recovery
-DTSTART;TZID=Europe/Warsaw:20260429T183109
-DTEND;TZID=Europe/Warsaw:20260429T193109
+DTSTAMP:20260912T080000Z
+SEQUENCE:1
+SUMMARY:Recovery — Walk & Mobility
+DTSTART;TZID=Europe/Warsaw:20260916T183000
+DTEND;TZID=Europe/Warsaw:20260916T190000
 RRULE:FREQ=WEEKLY;BYDAY=WE
+DESCRIPTION:Recovery day.\n\nDo a relaxed 20–40 minute walk. Optional 5–10 minutes of light mobility/stretching for hips\, quads\, hamstrings\, calves and chest.\n\nNo hard lifting today. Recovery is part of the program.
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-b-thu@nemz11
-DTSTAMP:20260912T074000Z
-SUMMARY:Workout B (Back/Arms)
-DTSTART;TZID=Europe/Warsaw:20260430T183109
-DTEND;TZID=Europe/Warsaw:20260430T193109
+DTSTAMP:20260912T080000Z
+SEQUENCE:1
+SUMMARY:Lower Body B — Hamstrings, Glutes & Calves
+DTSTART;TZID=Europe/Warsaw:20260917T183000
+DTEND;TZID=Europe/Warsaw:20260917T194500
 RRULE:FREQ=WEEKLY;BYDAY=TH
+DESCRIPTION:GOAL: Add size to the back of the legs\, glutes and calves.\n\n1. Romanian Deadlift (RDL) — 4 x 6–10 — rest 2–3 min\n2. Hip Thrust — 4 x 8–12 — rest 2 min\n3. Seated or Lying Leg Curl — 3 x 10–15 — rest 90 sec\n4. Reverse Lunge — 3 x 8–10 each leg — rest 90 sec\n5. Seated Calf Raise — 4 x 12–20 — rest 60 sec\n\nFORM CUES:\nRDL: knees slightly bent\, push hips backward\, keep bar close to legs and stop when hamstrings are strongly stretched.\nHip thrust: upper back on bench\, drive hips upward and squeeze glutes at the top without over-arching your lower back.\nReverse lunge: step backward\, lower rear knee toward floor and push through the front foot.
 END:VEVENT
 BEGIN:VEVENT
 UID:leg-shape-fri@nemz11
-DTSTAMP:20260912T074000Z
-SUMMARY:Leg Day (Shape)
-DTSTART;TZID=Europe/Warsaw:20260501T183109
-DTEND;TZID=Europe/Warsaw:20260501T193109
+DTSTAMP:20260912T080000Z
+SEQUENCE:1
+SUMMARY:Upper Body B — Balanced Upper + Core
+DTSTART;TZID=Europe/Warsaw:20260918T183000
+DTEND;TZID=Europe/Warsaw:20260918T194000
 RRULE:FREQ=WEEKLY;BYDAY=FR
+DESCRIPTION:GOAL: Balanced chest\, back\, arms and core with only moderate direct shoulder work.\n\n1. Flat Dumbbell Bench Press — 3 x 8–12 — rest 2 min\n2. Seated Cable Row — 3 x 8–12 — rest 2 min\n3. Neutral-Grip Lat Pulldown — 3 x 10–12 — rest 90 sec\n4. Machine Shoulder Press — 2 x 10–12 — rest 90 sec\n5. Cable Lateral Raise — 2 x 12–15 — rest 60 sec\n6. EZ-Bar Curl — 3 x 10–12 — rest 60 sec\n7. Overhead Cable Triceps Extension — 3 x 10–15 — rest 60 sec\n8. Cable Crunch — 3 x 12–15 — rest 60 sec\n\nFORM CUES:\nCable row: pull handle toward lower ribs/belly area without rocking your whole body.\nLateral raise: lift arm out to the side until about shoulder height\, controlled not swinging.\nCable crunch: curl ribs toward pelvis using your abs\, not your arms.
 END:VEVENT
 BEGIN:VEVENT
 UID:optional-pump-sat@nemz11
-DTSTAMP:20260912T074000Z
-SUMMARY:Optional Pump / Weak Points
-DTSTART;TZID=Europe/Warsaw:20260502T183109
-DTEND;TZID=Europe/Warsaw:20260502T193109
+DTSTAMP:20260912T080000Z
+SEQUENCE:1
+SUMMARY:Full Body + Legs — Extra Growth Day
+DTSTART;TZID=Europe/Warsaw:20260919T183000
+DTEND;TZID=Europe/Warsaw:20260919T193500
 RRULE:FREQ=WEEKLY;BYDAY=SA
+DESCRIPTION:GOAL: Third weekly leg stimulus plus lighter full-body work. Do not chase maximum weights today.\n\n1. Hack Squat — 3 x 10–12 — rest 2 min\n2. Walking Lunges — 2 x 10 each leg — rest 90 sec\n3. Dumbbell Romanian Deadlift — 2 x 12 — rest 90 sec\n4. Machine Chest Press — 3 x 10–12 — rest 90 sec\n5. Cable or Chest-Supported Row — 3 x 10–12 — rest 90 sec\n6. Leg Curl — 2 x 12–15 — rest 60 sec\n7. Calf Raise — 3 x 15–20 — rest 60 sec\n8. Plank — 3 x 30–60 sec — rest 60 sec\n\nFORM CUES:\nHack squat: back against pad\, feet planted\, lower under control and drive up through your feet.\nWalking lunge: take a controlled step\, lower rear knee and keep front foot firmly planted.\nPlank: squeeze glutes and abs and keep your body in a straight line.
 END:VEVENT
 BEGIN:VEVENT
 UID:full-rest-sun@nemz11
-DTSTAMP:20260912T074000Z
-SUMMARY:Full Rest
-DTSTART;TZID=Europe/Warsaw:20260503T183109
-DTEND;TZID=Europe/Warsaw:20260503T193109
+DTSTAMP:20260912T080000Z
+SEQUENCE:1
+SUMMARY:Full Rest — No Gym
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
 RRULE:FREQ=WEEKLY;BYDAY=SU
+DESCRIPTION:Full rest day. Eat well\, hydrate and sleep. No hard training required.
 END:VEVENT
 END:VCALENDAR
